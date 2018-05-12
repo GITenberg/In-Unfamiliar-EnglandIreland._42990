@@ -1,0 +1,30 @@
+_repo: In-Unfamiliar-EnglandIreland._42990
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murphy, Thos. D. (Thomas Dowler)
+    alias: Murphy, Thomas Dowler
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '7285'
+    url: http://www.gutenberg.org/2009/agents/7285
+description: ''
+gutenberg_issued: '2013-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42990'
+  lccn: '10003666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Description and travel'
+- !lcc 'DA'
+title: "In Unfamiliar England\r\nA Record of a Seven Thousand Mile Tour by Motor of\
+  \ the Unfrequented Nooks and Corners, and the Shrines of Especial Interest, in England;\
+  \ With Incursions into Scotland and Ireland."
+url: http://www.gutenberg.org/ebooks/42990
